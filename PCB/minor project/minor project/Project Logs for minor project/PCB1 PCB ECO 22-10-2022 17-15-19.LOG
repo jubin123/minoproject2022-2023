@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PI3.3OUT Pin=P13-17
+Added Pin To Net: NetName=IN-2 Pin=J1-24
+Added Pin To Net: NetName=PI3.3OUT Pin=P13-1

@@ -1,0 +1,11 @@
+Change Component Description : Designator=P9 Old Description=i2c port for future use New Description=i2c port for future use.Raspberry pi 2b.
+Change Component Description : Designator=P18 Old Description=SPI for future use New Description=SPI for future use. raspberry pi 2b
+Added Component: Designator=P21(My_1X02)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 2-AS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESCL Pin=J1-14
+Added Pin To Net: NetName=ESCL Pin=P21-2
+Added Net: Name=ESCL
+Added Pin To Net: NetName=ESDA Pin=J1-11
+Added Pin To Net: NetName=ESDA Pin=P21-1
+Added Net: Name=ESDA
+Added Member To Class: ClassName=Sheet1 Member=Component P21 Header 2

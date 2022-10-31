@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P21 Old Footprint=My_1X02 New Footprint=MY_6410-02
+Added Component: Designator=P22(MY_6410-02)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 2-AS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESDA Pin=P22-1
+Added Pin To Net: NetName=ESCL Pin=P22-2
+Added Member To Class: ClassName=Sheet1 Member=Component P22 Header 2
